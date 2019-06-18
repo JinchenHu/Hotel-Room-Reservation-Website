@@ -1,0 +1,10 @@
+Name:HOTEL10*numOfRooms:1*Smoker:yes*numOfBeds:0/2*Loc:dt*price:333*Parking:0*fac:bar,water*Address:10 Sherborooke West
+Name:Faubourg*numOfRooms:2*Smoker:yes*numOfBeds:2/0*Loc:dt*price:134*Parking:1*fac:bal,garden*Address:155,Boul,Rene Est
+Name:Holiday*numOfRooms:2*Smoker:no*numOfBeds:1/1*Loc:east*price:86*Parking:2*fac:bar,bal*Address:1240 Drummond Street
+Name:Europa*numOfRooms:3*Smoker:yes*numOfBeds:2/1*Loc:east*price:500*Parking:3*fac:water*Address:999,rue St-Urbain
+Name:Monville*numOfRooms:4*Smoker:no*numOfBeds:1/2*Loc:west*price:109*Parking:4*fac:garden*Address:1 Boulevard Est
+Name:Stephen*numOfRooms:5*Smoker:no*numOfBeds:0/2*Loc:west*price:220*Parking:0*fac:bar,bal,poll,garden*Address:900 de La Gauchetiere West
+Name:LHotel*numOfRooms:5*Smoker:no*numOfBeds:2/0*Loc:air*price:175*Parking:1*fac:bar,poll*Address:1440 Drummond Street
+Name:Chateau*numOfRooms:1*Smoker:no*numOfBeds:1/1*Loc:air*price:125*Parking:2*fac:water,garden*Address:2315 Hingston
+Name:Fairmont*numOfRooms:6*Smoker:yes*numOfBeds:2/1*Loc:old*price:100*Parking:3*fac:bal,poll*Address:1740 Boulevard Rene West
+Name:Sheraton*numOfRooms:7*Smoker:no*numOfBeds:1/2*Loc:old*price:40*Parking:4*fac:bar*Address:5905 Metropolitan

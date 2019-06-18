@@ -1,0 +1,55 @@
+
+body{
+    background-color: #ffffcc;
+}
+#fs1{
+    border-color: #0000cc;
+    border-width: 0.5mm;
+    background-color: #99ccff;
+    width: 800px;
+}
+
+#fs2{
+    border-color: #336600;
+    border-width: 0.5mm;
+    background-color: #ccffcc;
+    width: 800px;
+}
+
+#leg1{
+    color: #0000cc;
+    font-size: 25px;
+}
+
+#leg2{
+    color: #336600;
+    font-size: 25px;
+}
+
+#fs1 label {
+    color: #0066ff;
+    font-weight: bold;
+}
+
+#fs2 label {
+    color: #33cc33;
+    font-weight: bold;
+}
+#fs3 {
+    border-color: #ff00ff;
+    border-width: 0.5mm;
+    background-color: #ffcccc;
+    width: 800px;
+}
+#leg3{
+    color: #ff00ff;
+    font-size: 25px;
+}
+#hotel{
+    position: relative;
+}
+#login{
+    position: absolute;
+    top: 0px;
+    left: 700px;
+}
